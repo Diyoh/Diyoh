@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&center=true&vCenter=true&width=820&height=70&color=4169E1&lines=Backend+Engineer;Ledgers+%C2%B7+Payments+%C2%B7+Auth+%C2%B7+Rate+Limiting;Correctness+under+concurrency;Node+%C2%B7+Python+%C2%B7+Go+%C2%B7+TypeScript" alt="Diyoh Shiloh" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&center=true&vCenter=true&width=820&height=70&color=4169E1&lines=Full+Stack+Engineer;Web+and+Mobile;Correctness+under+concurrency;React+%C2%B7+Laravel+%C2%B7+Node+%C2%B7+Flutter+%C2%B7+Postgres" alt="Diyoh Shiloh" />
 
 <h1>Diyoh Shiloh</h1>
 
-<p><b>Backend engineer based in Buea, Cameroon.<br/>I build systems where correctness matters and reach for the right database primitive, not one trick.</b></p>
+<p><b>Full stack engineer based in Buea, Cameroon.<br/>I build reliable web and mobile products, front to back, and care most about correctness where it is hard.</b></p>
 
 <p>
   <a href="https://www.linkedin.com/in/diyoh-shiloh-896226241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,13 +14,24 @@
 
 </div>
 
-<h3 align="center">Tech I work with</h3>
+<h3 align="center">Core stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,php,nodejs,nestjs,fastapi,laravel,express,postgres,mysql,redis,firebase,docker,git,github,vscode" alt="skills" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+<h3 align="center">Also comfortable with</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,nodejs,express,nestjs,python,fastapi,go,php,laravel,flutter,dart,postgres,mysql,redis,firebase,docker,git,github,vscode" alt="skills" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white" alt="CodeIgniter" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
@@ -96,5 +107,5 @@ Most of my repositories carry a design decisions section that explains why each 
 
 <div align="center">
 <br/>
-<i>Open to backend roles and interesting problems.</i>
+<i>Open to full stack roles and interesting problems.</i>
 </div>
