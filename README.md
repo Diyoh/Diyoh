@@ -1,67 +1,104 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&center=true&vCenter=true&width=820&height=70&color=4169E1&lines=Backend+Engineer;Ledgers+%C2%B7+Payments+%C2%B7+Auth+%C2%B7+Rate+Limiting;Correctness+under+concurrency;Node+%C2%B7+Python+%C2%B7+Go+%C2%B7+TypeScript" alt="Diyoh Shiloh" />
+
 # Diyoh Shiloh
 
-**Backend engineer. I build systems where correctness matters: ledgers, payments, auth, and rate limiting.**
+##### Backend engineer based in Buea, Cameroon. I build systems where correctness matters and reach for the right database primitive, not one trick.
 
-Based in Buea, Cameroon. I work across Node, Python, Go, and TypeScript, and I reach for the right database primitive rather than one trick.
-
-![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+<a href="https://www.linkedin.com/in/diyoh-shiloh-896226241">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:diyohshiloh4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://img.shields.io/badge/Buea,%20Cameroon-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
 </div>
 
----
-
-## Featured work
-
-Each of these is a focused backend service that demonstrates one hard problem done correctly, with tests and an in-depth README.
-
-| Project | What it shows | Stack |
-|---------|---------------|-------|
-| [Double-entry-ledger](https://github.com/Diyoh/Double-entry-ledger) | Double entry, derived balances, integer money, and no overdraw under concurrency via serialisable isolation. | TypeScript, Postgres |
-| [idempotent-payments](https://github.com/Diyoh/idempotent-payments) | Idempotency keys, signed webhooks with replay rejection, an explicit state machine, reconciliation, and a dead letter queue. | TypeScript |
-| [api-rate-limiter](https://github.com/Diyoh/api-rate-limiter) | Sliding window and token bucket rate limiting made atomic with Redis Lua, plus net/http middleware. | Go, Redis |
-| [otp-biometric-auth](https://github.com/Diyoh/otp-biometric-auth) | OTP, argon2id, rotating refresh tokens with reuse detection, TOTP 2FA, and the correct biometric unlock pattern. | Python, FastAPI |
-| [realtime-chat-service](https://github.com/Diyoh/realtime-chat-service) | Per channel ordering, at least once delivery with dedupe, offline catch up, and per request authorization. | TypeScript, WebSocket |
-| [USSD-Booking-system](https://github.com/Diyoh/USSD-Booking-system) | Hybrid Web and USSD hall and event booking with mobile money and SMS, on one shared backend. | Laravel, PHP |
-
----
-
-## What I care about
-
-Correctness under concurrency, idempotent APIs that are safe to retry, money as integer minor units, and tests that prove the mechanism rather than decorate it. Most of my repositories have a design decisions section that explains why each choice was made, because the reasoning is the point.
-
----
-
-## Tech
-
-**Languages** TypeScript, JavaScript, Python, Go, PHP
-
-**Backend** Node and Express, NestJS, FastAPI, Laravel
-
-**Data** PostgreSQL, MySQL, Redis, Prisma
-
-**Practice** database transactions and isolation levels, state machines, retries and dead letter queues, webhook security, CI with GitHub Actions
-
----
-
-## Reach me
-
-- Email: diyohshiloh4@gmail.com
-- LinkedIn: add-your-linkedin-url
-- Location: Buea, Cameroon
+<br/>
 
 <div align="center">
 
-![Diyoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diyoh&show_icons=true&hide_border=true)
+### Tech I work with
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyoh&layout=compact&hide_border=true)
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,php,nodejs,nestjs,fastapi,laravel,express,postgres,mysql,redis,docker,git,github" alt="skills" />
 
+</div>
+
+<br/>
+
+<div align="center">
+
+### Featured projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Diyoh/Double-entry-ledger">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyoh&repo=Double-entry-ledger&theme=tokyonight&hide_border=true" alt="Double-entry-ledger" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Diyoh/idempotent-payments">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyoh&repo=idempotent-payments&theme=tokyonight&hide_border=true" alt="idempotent-payments" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Diyoh/api-rate-limiter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyoh&repo=api-rate-limiter&theme=tokyonight&hide_border=true" alt="api-rate-limiter" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Diyoh/otp-biometric-auth">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyoh&repo=otp-biometric-auth&theme=tokyonight&hide_border=true" alt="otp-biometric-auth" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Diyoh/realtime-chat-service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyoh&repo=realtime-chat-service&theme=tokyonight&hide_border=true" alt="realtime-chat-service" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Diyoh/USSD-Booking-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diyoh&repo=USSD-Booking-system&theme=tokyonight&hide_border=true" alt="USSD-Booking-system" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### What I care about
+
+</div>
+
+Correctness under concurrency, idempotent APIs that are safe to retry, money as integer minor units, and tests that prove the mechanism rather than decorate it. Most of my repositories carry a design decisions section that explains why each choice was made, because the reasoning is the point.
+
+<br/>
+
+<div align="center">
+
+### GitHub activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Diyoh&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diyoh&theme=tokyonight&hide_border=true" height="165" alt="streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyoh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="top languages" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Diyoh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
+
+</div>
+
+<div align="center">
+<br/>
+<i>Open to backend roles and interesting problems.</i>
 </div>
