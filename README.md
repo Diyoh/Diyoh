@@ -17,7 +17,15 @@
 <h3 align="center">Tech I work with</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,php,nodejs,nestjs,fastapi,laravel,express,postgres,mysql,redis,docker,git,github" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,php,nodejs,nestjs,fastapi,laravel,express,postgres,mysql,redis,firebase,docker,git,github,vscode" alt="skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 <h3 align="center">Featured projects</h3>
