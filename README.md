@@ -24,19 +24,15 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<h3 align="center">Also comfortable with</h3>
+<h3 align="center">Also work with</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,nodejs,express,nestjs,python,fastapi,go,php,laravel,flutter,dart,postgres,mysql,redis,firebase,docker,git,github,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ts,express,nestjs,python,fastapi,go,mysql,redis,firebase,docker" alt="skills" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white" alt="CodeIgniter" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 <h3 align="center">Featured projects</h3>
@@ -98,12 +94,42 @@
   </tr>
 </table>
 
+
+<h3 align="center">Live sites I have shipped</h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://medaccess.shineltd.org">Medaccess</a></h4>
+      <p>A healthcare access web platform, built as a single page application with accounts, booking, and payments.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://sra.shineltd.org">Sintieh Research Academy</a></h4>
+      <p>Site for a research academy covering its programmes, services, events, and publications.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://cevero.co.uk">Cevero Group</a></h4>
+      <p>Corporate site for a UK group with two divisions: <a href="https://cevero.co.uk/care/">Support Services</a>, CQC regulated home care, and <a href="https://cevero.co.uk/properties/">Properties</a>, construction and refurbishment.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://guidavisa.co.uk">GuidaVisa</a></h4>
+      <p>UK immigration and visa services site with online appointment booking.</p>
+    </td>
+  </tr>
+</table>
+</div>
+
 <h3 align="center">What I care about</h3>
 
 <p align="center">
 Correctness under concurrency, idempotent APIs that are safe to retry, money as integer minor units, and tests that prove the mechanism rather than decorate it.<br/>
 Most of my repositories carry a design decisions section that explains why each choice was made, because the reasoning is the point.
 </p>
+
+<p align="center"><sub>I use AI tooling actively in my workflow, including Claude and Gemini.</sub></p>
 
 <div align="center">
 <br/>
